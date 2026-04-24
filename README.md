@@ -1,6 +1,9 @@
 <h1 align="center">Francesco Pezzella</h1>
 <p align="center">
-  Software Engineering Student · Full Stack Developer
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Backend+Focused;Full+Stack+Developer;Systems+%26+Architecture" />
+</p>
+<p align="center">
+  Software Engineering Student · Backend / Full Stack
 </p>
 
 <p align="center">
@@ -12,49 +15,44 @@
 
 ### About
 
-* ICT student at Fontys
-* Focus: backend systems, architecture, algorithms
-* Experience as Project Lead and Scrum Master
-* Interested in functional programming and scalable systems
+* ICT student at Fontys University of Applied Sciences
+* Focus on backend systems, architecture, and algorithms
+* Experience leading teams as Project Lead and Scrum Master
+* Interested in functional programming and scalable design
 
 ---
 
-### Tech
-
-<p>
-  C# · Java · TypeScript · Python · Elm  
-  <br/>
-  React · ASP.NET · Spring Boot · Docker  
-  <br/>
-  PostgreSQL · SQL Server · MySQL
-</p>
-
----
-
-### Selected Work
-
-**Diplomacy Platform**
-Full-stack system with real-time communication, 2FA, and scalable architecture
-
-**Board Game Generator**
-Spring Boot + React app with authentication and CI/CD
-
-**Education Learning Platform**
-Led international team, managed CI/CD and sprint delivery
-
----
-
-### Stats
+### Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=cs,java,py,ts,elm,html,react,aspnet,spring,docker,postgres,mysql,git" />
 </p>
 
 ---
 
-### Currently
+### What I Build
 
-* Studying Computer Science fundamentals
-* Improving system design and backend architecture
-* Preparing for Master's at TU/e
+* Full-stack applications with structured architectures
+* Backend systems with authentication, real-time features, and APIs
+* Projects with CI/CD pipelines and Docker-based deployment
+
+---
+
+### Selected Projects
+
+**Diplomacy Platform**
+Real-time full-stack platform with SignalR, 2FA authentication, and modular architecture
+
+**Board Game Generator**
+Spring Boot + React application with authentication, game logic, and CI/CD
+
+**Education Learning Platform**
+Led an international team, managed sprints, and designed CI/CD workflows
+
+---
+
+### Current Focus
+
+* Computer science fundamentals (algorithms, systems)
+* Backend architecture and scalability
+* Preparing for a Master's at TU Eindhoven
