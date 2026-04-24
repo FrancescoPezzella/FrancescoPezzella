@@ -35,21 +35,8 @@
 
 ---
 
-### Selected Projects
-
-**Diplomacy Platform**
-Real-time full-stack platform with SignalR, 2FA authentication, and modular architecture
-
-**Board Game Generator**
-Spring Boot + React application with authentication, game logic, and CI/CD
-
-**Education Learning Platform**
-Led an international team, managed sprints, and designed CI/CD workflows
-
----
-
 ### Current Focus
 
+* Finding an internship :)
 * Computer science fundamentals (algorithms, systems)
-* Backend architecture and scalability
 * Preparing for a Master's at TU Eindhoven
