@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Full+Stack+Developer;Systems+%26+Architecture" />
 </p>
 <p align="center">
-  Software Engineering Student · Full Stack
+  ICT Student
 </p>
 
 <p align="center">
