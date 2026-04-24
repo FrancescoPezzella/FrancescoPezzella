@@ -1,9 +1,6 @@
 <h1 align="center">Francesco Pezzella</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Full+Stack+Developer;Systems+%26+Architecture" />
-</p>
-<p align="center">
-  ICT Student
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Full+Stack+Developer" />
 </p>
 
 <p align="center">
