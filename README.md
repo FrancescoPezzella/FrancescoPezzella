@@ -16,7 +16,8 @@
 * Focus on backend systems, architecture, and algorithms
 * Experience leading teams as Project Lead and Scrum Master
 * Interested in functional programming and scalable design
-
+* i563434 - my school account
+  
 ---
 
 ### Tech Stack
