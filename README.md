@@ -16,7 +16,7 @@
 * Focus on backend systems, architecture, and algorithms
 * Experience leading teams as Project Lead and Scrum Master
 * Interested in functional programming and scalable design
-* i563434 - my school account
+* Like academic stuff such as math, algorithms, my lovely parse trees, Z3 (me when I lie)
   
 ---
 
@@ -38,6 +38,5 @@
 
 ### Current Focus
 
-* Finding an internship :)
-* Computer science fundamentals (algorithms, systems)
+* Doing an internship
 * Preparing for a Master's at TU Eindhoven
