@@ -33,10 +33,3 @@
 * Full-stack applications with structured architectures
 * Backend systems with authentication, real-time features, and APIs
 * Projects with CI/CD pipelines and Docker-based deployment
-
----
-
-### Current Focus
-
-* Doing an internship
-* Preparing for a Master's at TU Eindhoven
