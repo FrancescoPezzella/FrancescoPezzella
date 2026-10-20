@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Full+Stack+Developer" />
 </p>
 
-<p align="center">
-  <a href="mailto:francesco.pezzella15@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/francesco-pezzella-0599b229a/">LinkedIn</a>
-</p>
-
 ---
 
 ### About
