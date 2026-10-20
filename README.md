@@ -33,3 +33,11 @@
 * Full-stack applications with structured architectures
 * Backend systems with authentication, real-time features, and APIs
 * Projects with CI/CD pipelines and Docker-based deployment
+
+---
+
+### Latest Interests/Projects
+
+* Working on Renaissance.py...
+* Trying to start to contribute to some open-source projects like xarray and Ruff, we'll see how much I manage to do :)
+* Just in general, everything interests me more lately. So much I want to learn and do, so little time... (da's het leven)
