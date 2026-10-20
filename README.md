@@ -12,12 +12,12 @@
 
 ### About
 
-* ICT student at Fontys University of Applied Sciences
 * Focus on backend systems, architecture, and algorithms
 * Experience leading teams as Project Lead and Scrum Master
 * Interested in functional programming and scalable design
 * Like academic stuff such as math, algorithms, my lovely parse trees, Z3 (me when I lie)
-  
+* I loooooooooooooooove Python (probably should learn Rust)
+
 ---
 
 ### Tech Stack
